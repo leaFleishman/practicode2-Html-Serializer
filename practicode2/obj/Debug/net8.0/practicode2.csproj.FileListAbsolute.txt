@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.AssemblyInfo.cs
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\data\HtmlTags.json
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\data\HtmlVoidTags.json
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\practicode2.exe
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\practicode2.deps.json
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\practicode2.runtimeconfig.json
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\practicode2.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\practicode2.pdb
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\refint\practicode2.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.pdb
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\practicode2.genruntimeconfig.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\obj\Debug\net8.0\ref\practicode2.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\practicode2\practicode2\bin\Debug\net8.0\test.html
